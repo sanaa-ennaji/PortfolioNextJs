@@ -4,8 +4,6 @@ This repository contains the code of my personal portfolio website showcasing pr
 The README.md file provides an overview of the project and instructions on how to set it up and customize it for your own use.
 
 
-![alt text](public/assets/demo.png)
-
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
@@ -40,11 +38,11 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/solarluiso/solarluiso-portfolio.git
+   git clone https://github.com/sanaa-ennaji/portfolioNextJs
    ```
 2. Navigate to the project directory:
    ```bash
-   cd solarluiso-portfolio
+   cd  portfolioNextJs
    ```
 3. Install dependencies:
 
@@ -91,9 +89,9 @@ Now, you're all set to customize and populate this portfolio website with your o
 
 The portfolio uses the following metadata to optimize its appearance and SEO:
 
-- Title: Luis Solar - Developer Portfolio
+- Title: sanaa ennaji - Developer Portfolio
 
-- Description: Explore the portfolio of Luis Solar, a web developer showcasing his projects and expertise.
+- Description: Explore the portfolio of sanaa ennaji, a web developer showcasing his projects and expertise.
 
 These meta tags are included to improve search engine visibility and provide a concise summary of the site’s content.
 
