@@ -3,8 +3,8 @@
 This repository contains the code of my personal portfolio website showcasing projects, skills, and expertise as a web developer.
 The README.md file provides an overview of the project and instructions on how to set it up and customize it for your own use.
 
-![Demo](https://github.com/solarluiso/solarluiso-portfolio/blob/master/public/assets/demo.png)
 
+![alt text](public/assets/demo.png)
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ The README.md file provides an overview of the project and instructions on how t
 Follow these instructions to get the project up and running on your local machine.
 
  ### Contact Forms for Modern Websites 
- 
+
   https://web3forms.com/#start
 
 ### Prerequisites
