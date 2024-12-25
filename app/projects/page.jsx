@@ -46,7 +46,7 @@ const projects = [
       { name: "PostgreSQL" },
       { name: "Docker" }
     ],
-    image: "/assets/projects/thumb2.png",
+    image: "/assets/projects/project2.png",
     live: "https://github.com/sanaa-ennaji/Survey_Frontend",
     github: "https://github.com/sanaa-ennaji/Survey",
   },
@@ -59,7 +59,7 @@ const projects = [
     stack: [{ name: "SpringBoot" }, { name: "Docker" }, { name: "Gitlab" } , { name:"PostgreSQL"}
     
     ],
-    image: "/assets/projects/thumb3.png",
+    image: "/assets/projects/project3.avif",
     live: "https://github.com/sanaa-ennaji/YouQuiz",
     github: "https://github.com/sanaa-ennaji/YouQuiz",
   },
@@ -69,7 +69,7 @@ const projects = [
     title: "MajesticCup",
     description: "API robust and secure API for managing knockout soccer competitions ",
     stack: [{ name: "SpringBoot" }, { name: "Spring Security" }, { name: "MongoDB" }],
-    image: "/assets/projects/thumb4.png",
+    image: "/assets/projects/project4.avif",
     live: "https://github.com/sanaa-ennaji/MajesticCup",
     github: "https://github.com/sanaa-ennaji/MajesticCup",
   },

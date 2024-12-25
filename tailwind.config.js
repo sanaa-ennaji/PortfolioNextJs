@@ -25,11 +25,11 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: "#1e1f22",
-        secondary: "#2b2d31",
+        primary: "#110227",
+        secondary: "#211132",
         accent: {
-          DEFAULT: "#57ebd7",
-          hover: "#45bcac",
+          DEFAULT: "#8A2BE2",
+          hover: "#33006F",
         },
       },
       keyframes: {

@@ -39,7 +39,7 @@ const Home = () => {
               <h1 className="h1">
                 Hello!
                 <br />
-                I'm <span className="text-accent">Sanaa</span>
+                I'm <span className="text-purple-900">Sanaa</span>
               </h1>
             </motion.div>
             {/* bio */}
