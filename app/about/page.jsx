@@ -175,7 +175,7 @@ const About = () => {
             <TabsTrigger value="skills">Skills</TabsTrigger>
             <TabsTrigger value="experience">Experience</TabsTrigger>
             <TabsTrigger value="education">Education</TabsTrigger>
-            <TabsTrigger value="certaficates">Certacicates</TabsTrigger>
+            {/* <TabsTrigger value="certaficates">Certacicates</TabsTrigger> */}
           </TabsList>
 
           {/* content */}

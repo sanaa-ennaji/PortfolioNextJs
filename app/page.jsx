@@ -21,14 +21,14 @@ const Home = () => {
       initial={{ y: "-200vh" }}
       animate={{ y: "0%" }}
       transition={{ duration: 1 }}
-      className="min-h-[80vh]  flex flex-col justify-center xl:justify-between py-12 xl:py-0"
+      className="min-h-[80vh]  flex flex-col justify-center xl:justify-between py-12 xl:py-20"
     >
       <div className="container mx-auto max-w-[1280px] flex-1 flex items-center">
         {/* main content */}
-        <div className="flex flex-col xl:flex-row items-center justify-center xl:gap-[100px] w-full">
+        <div className="flex flex-col xl:flex-row items-center xl:justify-start xl:ml-10 justify-center xl:gap-[100px] w-full">
         
           {/* text */}
-          <div className="flex flex-col gap-5 w-auto max-w-[500px] text-center xl:text-left">
+          <div className="flex flex-col gap-5 w-full max-w-[800px] text-center xl:text-left">
             {/* hello */}
             <motion.div
               variants={fadeIn("down", 0.8)}
@@ -38,8 +38,8 @@ const Home = () => {
             >
               <h1 className="h1">
                 Hello!
-                <br />
-                I'm <span className="text-purple-900">Sanaa</span>
+                {/* <br /> */}
+                I'm <span className="text-accent">Sanaa</span>
               </h1>
             </motion.div>
             {/* bio */}
@@ -51,7 +51,7 @@ const Home = () => {
               className="flex flex-col gap-2"
             >
               <h3 className="h3 text-white/60">fULL STACK Developer</h3>
-              <p className="p max-w-[312px] text-white/80">
+              <p className="p w-full text-white/80">
               I design and build intuitive digital experiences, blending clean code with creative vision to bring ideas to life.
               </p>
             </motion.div>
@@ -63,8 +63,7 @@ const Home = () => {
               viewport={{ once: false, amount: 0.2 }}
               className="h3"
             >
-              Let's create something <br />
-              remarkable together!
+              Let's create something  remarkable together!
             </motion.h3> 
             {/* btn and socials */}
             <motion.div
@@ -97,13 +96,13 @@ const Home = () => {
             </motion.div>
           </div>
             {/* photo */}
-            <div className="mb-8 xl:mb-0">
+            {/* <div className="mb-8 xl:mb-0">
             <Photo />
-          </div>
+          </div> */}
         </div>
       </div>
       {/* Stats at the bottom */}
-      <div className="w-full">
+      <div className="w-full mt-20">
         <Stats />
       </div>
       <div className="mt-40" id="about">
