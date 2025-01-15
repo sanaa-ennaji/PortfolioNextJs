@@ -102,7 +102,7 @@ const Home = () => {
         </div>
       </div>
       {/* Stats at the bottom */}
-      <div className="xl:w-full w-auto mt-20">
+      <div className="w-full mt-20">
         <Stats />
       </div>
       <div className="mt-40" id="about">
